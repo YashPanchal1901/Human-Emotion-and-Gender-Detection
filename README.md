@@ -1,6 +1,3 @@
-Sure, here is a README file for the provided code:
-
----
 
 # Real-time Face Detection and Analysis
 
